@@ -34,4 +34,12 @@ public class ClassA {
 		
 	}
 	
+	
+	public void  Z()
+	{
+		
+		System.out.println("Last Changes");
+		
+	}
+	
 }
