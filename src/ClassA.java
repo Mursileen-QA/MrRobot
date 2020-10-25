@@ -42,4 +42,13 @@ public class ClassA {
 		
 	}
 	
+	
+	public void  IndiaOffice()
+	{
+		
+		System.out.println("Lastest Changes");
+		
+	}
+	
+	
 }
