@@ -27,4 +27,11 @@ public class ClassA {
 		
 	}
 	
+	public void D()
+	{
+		
+		System.out.println("Master Commit");
+		
+	}
+	
 }
