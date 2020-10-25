@@ -50,5 +50,12 @@ public class ClassA {
 		
 	}
 	
+	public void  USOffice()
+	{
+		
+		System.out.println("Lastest Changes");
+		
+	}
+	
 	
 }
