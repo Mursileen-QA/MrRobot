@@ -13,4 +13,18 @@ public class ClassA {
 		
 	}
 	
+	public void B()
+	{
+		
+		System.out.println("A");
+		
+	}
+	
+	public void C()
+	{
+		
+		System.out.println("A");
+		
+	}
+	
 }
